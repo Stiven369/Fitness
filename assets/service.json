@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "concejero-autoayuda",
+  "private_key_id": "c8f11ba8fca5fe7db04ae9c3e455e263a9bbbd8b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC2EPpGVyFmsJWL\nmStH5UDK6EAXR39RkZMUtC0C2f2PfaqhvpbLcl4Jew0No/gNH1JvfRpHANN2luOW\nHbWOaeCfGzg3He5i9ixHh4p0SiDaklVkIQMja9J2AJQdkyD1AvifowF6ilpPuvb7\n7F22cRXa/9+zuqfyboJIV/6+ISvo3SOJfXA3tYBMpf+D3f8669njzKBH+Hy1daEy\nepjDvHuIP/eyGeamBa6+5yXy3fraBQT/p58q9WSwv+7I4Md8L5upE6CWSCG0FN/P\nfiBAfXamR255BascDfz5i9BTI3ezhFT/hGtD8/ZrCtjhkUH3HtghnmSxoAnu2gmo\nv3F7xCwNAgMBAAECggEABq8c4RQ1z7VP6C4ZXqxV8p0QLUqcq/vyMGJk/KPQIUJ1\nzzZWBuYN+b8gvY11f9XUiu9G1bB8EvB7Lnmsvqu4aV7wc2WP6OYsvfuF47sM9blF\nlUV4/gXpVhezWFqcbSJMyl+LoFoP8rlkc987mYURTlbyeYCyxb203r8MRSKmoAfe\nUYsDsKlkcbjPt5U/cA1DKFWmJtIJBosTdBOYwGxF58m5foFwedwrpMJf7AJg8BWt\n+BRNWvC+FLKuVvMvjUrHLreGnqbMUV6zqezWmjxoTlSQUnHBQ+VGurguaWfvGKHf\n5ioDaW9ZCfAKMmKfHjKJIKn8maAD6On8nrpAIHEmAQKBgQD4n87uPUXKP3YIB5hH\nuKEQQhSOAPKVIukxPa/TrZGatWCZ00ewfRiuyTcOj2pErnbA9zuA5siiuROKSKoT\nukYTdP/i0Jvvdi5Ch3nJHGNtSbsjuxEeSgDJ2mohCeMsboAIhhpGmRmDkQh8leZM\n97lPjjiQMx5zu/mkH2kIoqYewQKBgQC7d7DuHaVupP5xl2iB9SFgIAmFx1KHiZmh\noQymcOy0jfbZ6Lk1mJPjjuciac3Wre/vk5DHvJwoK/EEWpktAN3HCJccPLDGVWnN\nhUAU2HMkhYawkQvGvVoq0qOWAbaO4VKNll1rlsTnwWwbxYQRNoyMR08jfBmTi9ao\nR7O9CzPsTQKBgQD0wydOBYZaeKVzfD6fhRUTU2q27hnjVo4qSud5RivNGfjzFzxB\ndLZDBJauP+RHn1YL3Jl46jrlb7zb63N8nmp0pz9vBR4u3bLnDkaIBemgYvDYWUae\nAg7KqbrHsdszF8n2Gkdt7zVd//9R36TtawfFWWc4FwtItusqdz3JIY7XQQKBgEGQ\nrf/JvJdC+36s7q8tFZwx+EKioLmopWPDGNKJgi/vytsRqt0U3PxkeXAuwwAHW3hW\nCvfgflkKbUQRj6sOt4Ip/fexPj5Ply57IRtpTHQEg0PzpsO+a++4NeB7/uZf5eiB\nI3FCjOFlY7Me1H7UrjlNo18Mw0E4Uj4Ovc0rQuCtAoGBAMl72sd7m+PVGziaLN0L\nArgUB/3UfRHndvCF++ifIfNoAbApVV5V/QPBZlWG71bskOdUoEcQP08/eCNEpSj/\nbleDU3iqNwsLjjYl4ckVHRUmpJDmo9O8RaIERBWA2wR+EH6/Mx+gzw7D6se2NJ53\nVYhJHGBVsn+qlhHoq56/PUyj\n-----END PRIVATE KEY-----\n",
+  "client_email": "dialogflow123@concejero-autoayuda.iam.gserviceaccount.com",
+  "client_id": "112932520473878127968",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflow123%40concejero-autoayuda.iam.gserviceaccount.com"
+}

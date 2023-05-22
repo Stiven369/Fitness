@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "303695176663",
+    "project_id": "consejeromentalhealth-a3980",
+    "storage_bucket": "consejeromentalhealth-a3980.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303695176663:android:f66cdf640cf6bbcea5e192",
+        "android_client_info": {
+          "package_name": "com.example.consejero_mental_health"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303695176663-6npocs9bbg5i258a828c13iadn639aqn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.consejero_mental_health",
+            "certificate_hash": "6265411c42bacf3a3367be63d56380aa7042caff"
+          }
+        },
+        {
+          "client_id": "303695176663-um438m34maavvu1p8efesc4lc12m3usl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCu9drrdCAczTzQe7Qav_4_fyGUHs-9yx8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "303695176663-um438m34maavvu1p8efesc4lc12m3usl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
